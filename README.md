@@ -9,3 +9,6 @@
 ##### vijf hekjes
 
 *Italic Text*
+
+**Bold Text**
+
