@@ -10,5 +10,7 @@
 
 *Italic Text*
 
-**Bold Text**
+__Bold Text__
+
+*Text that is both __Bold__ and Italic*
 
